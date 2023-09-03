@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World")
+	fmt.Printf("No New line ")
+	fmt.Println("Hello World Build and install")
 }
+
